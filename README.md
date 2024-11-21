@@ -1,0 +1,1 @@
+This repository contains a Python script that analyzes a dataset related to sales data from Big Mart. The dataset includes various attributes of items sold in the stores, such as item weights, sales figures, and outlet details.
